@@ -1,4 +1,4 @@
-# Health Level Predictor 🏥
+# Health Level Predictor 📊
 
 ## Project Overview
 A comprehensive Machine Learning system developed at the **Davidson Institute of Science**. This project predicts and classifies user health levels (on a scale of 1-5) by analyzing physiological data and behavioral patterns. 
